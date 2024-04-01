@@ -706,7 +706,8 @@ header.header.headerFixed {
 
 .about_wrap .about_content h4 {
     color: #171819;
-    font-family: "Poppins", sans-serif;
+    font-family: "Cursive", cursive;
+    text-align: justify;
     font-size: 35px;
     line-height: 65px;
     font-weight: 500;
